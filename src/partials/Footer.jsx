@@ -31,7 +31,7 @@ function Footer() {
               </Link>
             </div>
             <div className="text-sm text-gray-600">
-              <Link to="#" className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">Terms</Link> · <Link to="#" className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">Privacy Policy</Link>
+              <Link to="#" className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">ERBIT</Link>
             </div>
           </div>
 
@@ -50,10 +50,7 @@ function Footer() {
               </li>
               <li className="mb-2">
                 <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Ubi: Maca, calle Huaniamarca A-22</Link>
-              </li>
-              <li className="mb-2">
-                <Link to="#" className="text-blue-600 hover:text-gray-900 transition duration-150 ease-in-out">by jesersu</Link>
-              </li>                            
+              </li>                         
             </ul>
           </div>
 
@@ -126,7 +123,7 @@ function Footer() {
           </ul>
 
           {/* Copyrights note */}
-          <div className="text-sm text-gray-600 mr-4">Made by <a className="text-blue-600 hover:underline" href="https://cruip.com/">Cruip</a>. All rights reserved.</div>
+          <div className="text-sm text-gray-600 mr-4">Made by <a className="text-blue-600 hover:underline" href="https://jesuschapi.netlify.app/">Jesersu</a>. All rights reserved.</div>
 
         </div>
 
