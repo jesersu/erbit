@@ -28,9 +28,8 @@ function Testimonials() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h2 className="h2 mb-4">Trusted by over 20,000 companies all over the world</h2>
-            <p className="text-xl text-gray-600" data-aos="zoom-y-out">Arcu cursus vitae congue mauris rhoncus viverra nibh cras pulvinar mattis
-                blandit libero cursus mattis.</p>
+            <h2 className="h2 mb-4">Encuentranos de nuestras redes sociales</h2>
+            <p className="text-xl text-gray-600" data-aos="zoom-y-out">Mantenemos actualizadas nuestras redes sociales, donde tenemos promociones!</p>
           </div>
 
           {/* Items */}
@@ -86,7 +85,7 @@ function Testimonials() {
                   <img className="relative rounded-full" src={TestimonialImage} width="96" height="96" alt="Testimonial 01" />
                 </div>
                 <blockquote className="text-xl font-medium mb-4">
-                  “ I love this product and would recommend it to anyone. Could be not easier to use, and our multiple websites are wonderful. We get nice comments all the time. “
+                  “ Fui para conocer un lugar, y me regalaron la experiencia mas bonita de toda mi vida, espero que sigan asi muchachos, llevo conmigo gratos recuerdos que los llevare toda mi vida, mil gracias!“
                 </blockquote>
                 <cite className="block font-bold text-lg not-italic mb-1">Darya Finger</cite>
                 <div className="text-gray-600">
